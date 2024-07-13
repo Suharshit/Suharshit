@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suharshit
 - 👀 Learning and working on Development technologies 
-- 🌱 I’m currently learning Python,ML
+- 🌱 I’m currently learning NextJS/Backend Tech
 - 📫 Reach me by email: suharshit123@gmail.com
 
 <!---
