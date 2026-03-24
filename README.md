@@ -25,7 +25,7 @@
 ```yaml
 name        : Suharshit Singh
 location    : Jalandhar, Punjab, India 🇮🇳
-university  : Lovely Professional University (CSE) | CGPA: 8.11
+university  : Lovely Professional University (CSE) | CGPA: 8.14
 pronouns    : he/him
 status      : 3rd Year Undergrad | Open to Internships
 interests   : [ Full-Stack Dev, DSA, AI/ML, SaaS, Open Source ]
